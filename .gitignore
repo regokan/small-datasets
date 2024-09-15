@@ -6,3 +6,7 @@ __pycache__
 
 # Saved weights
 weights
+
+# Generated files
+fake_loan_data.csv
+loan_combined.csv
