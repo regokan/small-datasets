@@ -11,6 +11,8 @@ torchvision = "*"
 matplotlib = "*"
 numpy = "*"
 argparse = "*"
+scikit-learn = "*"
+pandas = "*"
 
 [dev-packages]
 
